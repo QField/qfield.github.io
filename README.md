@@ -1,4 +1,4 @@
-# Welcome to [Qfield.net](https://www.qfield.net)
+# Welcome to [QField.net](http://qfield.net)
 
 ## What is Q field?
 
